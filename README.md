@@ -42,8 +42,4 @@ spring.jpa.hibernate.ddl-auto=update
 
 👨‍💻 Author
 **Sumit Madaan** — Backend Developer & Security Enthusiast  
-Currently interning at HPE and exploring scalable backend architectures, authentication flows, and system design.
-
----
-
-Want help writing a pinned tweet or LinkedIn post to share your repo? I can help you craft that next.
+exploring scalable backend architectures, authentication flows, and system design.
